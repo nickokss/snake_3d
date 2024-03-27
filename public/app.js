@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://unpkg.com/three/build/three.module.js';
 
 // Scene setup
 let scene = new THREE.Scene();
